@@ -20,3 +20,7 @@ temp_*.*
 __temp__.mp4
 
 data_collection/synonyms/
+
+# big
+data/
+models/
