@@ -17,6 +17,7 @@ ipython_config.py
 temp
 temp.*
 temp_*.*
+temp_*/
 __temp__.mp4
 
 data_collection/synonyms/
